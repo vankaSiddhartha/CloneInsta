@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707705913983",
+    "project_id": "cloneinsta-5fa96",
+    "storage_bucket": "cloneinsta-5fa96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707705913983:android:b95b7291536bd8d644354a",
+        "android_client_info": {
+          "package_name": "com.vanka.cloneinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707705913983-ohjh8h8mptlp50noaka4mh0qp3h4gavu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYEIpOFQlrg82MZgq8o0tGzF4LDp2EE4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707705913983-ohjh8h8mptlp50noaka4mh0qp3h4gavu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
